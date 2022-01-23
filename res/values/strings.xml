@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">" "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="idp">Super Quiz !</string>
+    <string name="idq">Super Quiz !</string>
+    <string name="ida">Android est un :</string>
+    <string name="idi">L\'installable est un  :</string>
+    <string name="idan">Android est un :</string>
+    <string name="idin">L\'installable est un :</string>
+    <string name="ids">SGBD</string>
+    <string name="idsj">SE</string>
+    <string name="idl">Langage</string>
+    <string name="idpa">.APK</string>
+    <string name="idpj">.JAR</string>
+    <string name="idpw">.WAR</string>
+    <string name="idpap">.APK</string>
+    <string name="idpja">.JAR</string>
+    <string name="idpwa">.WAR</string>
+
+</resources>
